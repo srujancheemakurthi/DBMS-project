@@ -1,5 +1,6 @@
 # DBMS-project
 Here its a basic Hotel Managment System Project. Its usefull for the Btech students to submit it as a final DBMS project.
+I have used SQL-DATABASE for connection.
 I have added all my connectors as well the codes so that they can download it and use it confortably. 
 
 Here is the LOGIN PAGE
